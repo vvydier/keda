@@ -110,6 +110,9 @@ require (
 	sigs.k8s.io/controller-tools v0.14.0
 	sigs.k8s.io/custom-metrics-apiserver v1.28.1-0.20240103150633-c0d09c9b6dd1
 	sigs.k8s.io/kustomize/kustomize/v5 v5.3.0
+	github.com/gorilla/websocket v1.5.1 // indirect
+	github.com/signalfx/signalfx-go v1.31.0 // indirect
+	github.com/signalfx/signalfx-go/signalflow/v2 v2.2.0 // indirect
 )
 
 replace (
